@@ -110,7 +110,7 @@
 
 		<!-- PLUGINS VERSIONS -->
 		<android-maven-plugin.version>3.8.2</android-maven-plugin.version>
-		<site-maven-plugin.version>0.9</site-maven-plugin.version>
+		<site-maven-plugin.version>0.12</site-maven-plugin.version>
 		<maven-project-info-reports-plugin.version>2.7</maven-project-info-reports-plugin.version>
 		<maven-surefire-report-plugin.version>2.15</maven-surefire-report-plugin.version>
 		<maven-gpg-plugin.version>1.4</maven-gpg-plugin.version>
