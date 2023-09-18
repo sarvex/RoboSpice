@@ -114,7 +114,7 @@
 		<maven-project-info-reports-plugin.version>2.7</maven-project-info-reports-plugin.version>
 		<maven-surefire-report-plugin.version>2.15</maven-surefire-report-plugin.version>
 		<maven-gpg-plugin.version>1.4</maven-gpg-plugin.version>
-		<maven-source-plugin.version>2.2.1</maven-source-plugin.version>
+		<maven-source-plugin.version>3.3.0</maven-source-plugin.version>
 		<maven-deploy-plugin.version>2.7</maven-deploy-plugin.version>
 		<maven-release-plugin.version>2.5</maven-release-plugin.version>
 		<maven-javadoc-plugin.version>2.9</maven-javadoc-plugin.version>
