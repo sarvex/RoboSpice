@@ -26,7 +26,7 @@
 
 	<properties>
 		<ormlite.version>4.47</ormlite.version>
-		<ormlite-content-provider.version>1.0.2</ormlite-content-provider.version>
+		<ormlite-content-provider.version>1.0.4</ormlite-content-provider.version>
 	</properties>
 
 	<dependencyManagement>
