@@ -23,7 +23,7 @@
 	</modules>
 
 	<properties>
-		<ormlite.version>4.48</ormlite.version>
+		<ormlite.version>6.1</ormlite.version>
 	</properties>
 
 	<dependencyManagement>
