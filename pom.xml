@@ -106,7 +106,7 @@
 		<dexmaker.version>1.2</dexmaker.version>
 		<mockwebserver.version>20130706</mockwebserver.version>
 		<junit.version>4.13.2</junit.version>
-		<commons-logging.version>1.3.0</commons-logging.version>
+		<commons-logging.version>1.3.1</commons-logging.version>
 
 		<!-- PLUGINS VERSIONS -->
 		<android-maven-plugin.version>3.8.2</android-maven-plugin.version>
