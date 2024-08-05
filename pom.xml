@@ -102,7 +102,7 @@
 		<android.version>4.1.1.4</android.version>
 		<android-platform.version>19</android-platform.version>
 		<android-annotations.version>4.1.1.4</android-annotations.version>
-		<easymock.version>5.2.0</easymock.version>
+		<easymock.version>5.4.0</easymock.version>
 		<dexmaker.version>1.2</dexmaker.version>
 		<mockwebserver.version>20130706</mockwebserver.version>
 		<junit.version>4.13.2</junit.version>
