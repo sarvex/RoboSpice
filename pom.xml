@@ -125,7 +125,7 @@
 		<doxia-module-markdown.version>1.12.0</doxia-module-markdown.version>
 		<maven-pmd-plugin.version>3.21.2</maven-pmd-plugin.version>
 		<findbugs-maven-plugin.version>3.0.5</findbugs-maven-plugin.version>
-		<maven-checkstyle-plugin.version>3.3.1</maven-checkstyle-plugin.version>
+		<maven-checkstyle-plugin.version>3.5.0</maven-checkstyle-plugin.version>
 		<eclipse-lifecycle-plugin.version>1.0.0</eclipse-lifecycle-plugin.version>
 
 		<!-- OTHER -->
